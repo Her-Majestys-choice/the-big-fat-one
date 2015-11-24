@@ -1,0 +1,17 @@
+public class runner {
+
+
+
+     public static void main(String args[]){
+
+
+         System.out.println("Hello this is the new Repository MOFOS!");
+
+           String shlong  =  "What am i doing here";
+
+            System.out.println(shlong);
+
+
+
+              }
+}
